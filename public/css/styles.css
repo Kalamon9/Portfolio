@@ -279,7 +279,7 @@ footer p {
   /* padding: 5%; */
 }
 
-.career {
+.career, .career h6 {
   /* padding: 5%; */
   line-height: 2;
 }
