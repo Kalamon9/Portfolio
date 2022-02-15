@@ -97,14 +97,13 @@ font-family: 'Source Code Pro', monospace; */
   padding-bottom: 5%;
 }
 
-.about-img {
-  width: 100%;
-  height: auto;
-}
+/* .about-img {
+width: 20rem;
+} */
 
-.about-text {
-  text-align: justify;
-}
+/* .about-text {
+font-size: .7rem;
+} */
 
 .top {
   padding-bottom: 10px;
@@ -323,9 +322,7 @@ footer p {
       padding: 7% 7%;
     }
 
-    .about-text {
-      text-align: left;
-    }
+
 
     #resume {
       padding: 15% 7% 5%;
